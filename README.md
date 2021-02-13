@@ -20,5 +20,7 @@ Bassed on the annual data, prime rental hour falls between 7:00 AM and 8:00 PM. 
 ### Station activity.
 A significant change in stations was observed between 2016 and 2017 which is consistent with the previous data. Most stations listed as active in 2016 were located in the southern portion of Manhattan.  Transitioning to 2017 almost all active stations were in zip code 07302 and the previous stations in Manhattan were not listed.
 
+![Screenshot 2021-02-13 123550.png](Images/Screenshot 2021-02-13 123550.png)
+
 ### Conclusion
 Exiting Manhattan had a clear impact on trips taken for Citi Bike. This was observed in radical decreases in trips taken, users, and bike id’s. However, the gender ratio, Customer subscriber ratios, and hours of operation remained consistent. 
