@@ -1,7 +1,7 @@
 ![citiBikeLogo.png](Images/citiBikeLogo.png)
 
 # Tableau-Citi-bike-project
-Tableau Citi bike project
+### Contents:
 
 ## <b><div align = "center"> Citi Bike Analytics</div></b>
 
