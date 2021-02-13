@@ -18,7 +18,7 @@ The number of users declined precipitously from 2013 to 2021. 2014 (the first fu
 
 
 ### Customer metrics
-The majority of customers were born in the 1980’s. However, this data reflecting age is more than likely inaccurate. A large proportion of ages collected were from 1880 to 1930 which is suspect. Approximately 70% of riders are male over the time period observed. Over the same time period 10% of riders did not declare a gender. After a closer inspection of the data, these same consumers also did not submit an age. The safest assumption is that the majority of riders are male. Riders designated as Subscribers make up over 80% of the users over the life of the project.
+The majority of customers were born in the 1980’s (see graph listed above). However, this data reflecting age is more than likely inaccurate. A large proportion of ages collected were from 1880 to 1930 which is suspect. Approximately 70% of riders are male over the time period observed. Over the same time period 10% of riders did not declare a gender. After a closer inspection of the data, these same consumers also did not submit an age. The safest assumption is that the majority of riders are male. Riders designated as Subscribers make up over 80% of the users over the life of the project.
 
 
 
