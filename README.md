@@ -3,8 +3,6 @@
 ![citiBikeLogo.png](Images/citiBikeLogo.png)
 
 
-### Contents:
-
 ## <b><div align = "center"> Citi Bike Analytics</div></b>
 
 ### Process and Data
