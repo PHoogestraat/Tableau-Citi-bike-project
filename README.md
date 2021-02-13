@@ -1,3 +1,5 @@
+![citiBikeLogo.png](images/citiBikeLogo.png)
+
 # Tableau-Citi-bike-project
 Tableau Citi bike project
 
